@@ -1,4 +1,4 @@
 *.dat
 !final.dat
 results/
-log_*
+log_*.txt
